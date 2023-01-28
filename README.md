@@ -15,6 +15,7 @@
 ansible-playbook -i inventory/test.yml site.yml
 
 Факт some_fact имеет значение 12
+
 ![Задание 1](https://user-images.githubusercontent.com/109212419/215259678-eed628fa-63fb-442b-b48e-10e6e6b96569.jpg)
 
 2. Найдите файл с переменными (group_vars) в котором задаётся найденное в первом пункте значение и поменяйте его на 'all default fact'.
